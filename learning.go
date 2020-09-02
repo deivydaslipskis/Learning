@@ -1,9 +1,9 @@
-package Learning
+package main
 
-import {
+import (
 	"fmt"
-}
+)
 
 func main(){
-	print("Hello World!")
+	fmt.Println("Hello World")
 }
